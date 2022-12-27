@@ -38,7 +38,7 @@ class Scripted(object):
 │
 ├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+├<b>㊙ Language: <a href='https://www.python.org'>Python 3.10.9</a></b>
 │
 ├<b>👨‍💻 Developer : <a href='https://t.me/mrmalik_offl'>Mr Malik</a></b>
 │
