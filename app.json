@@ -1,10 +1,10 @@
 {
-  "name": "TELEROID RENAMER BOT",
+  "name": "MS RENAMER BOT",
   "description": "",
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/TeleRoid_RENAMER_BOT",
+  "success_url": "https://t.me/MsRenamerPro_Bot",
   "website": "https://github.com/P-Phreak",
   "repository": "https://github.com/mrmalikoffl/RENAMER-BOT",
   "env": {
